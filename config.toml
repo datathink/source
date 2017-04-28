@@ -1,11 +1,12 @@
 baseurl = "/"
 relativeurls = true
+disqusShortname = "datathinkio"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "Data Think"
+description = "Thoughts about data and visualization"
 theme = "hugo-future-imperfect"
 googleAnalytics = ""
-disqusShortname = ""
-publishDir = "docs"
+publishDir = "../datathink"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 [permalinks]
@@ -16,13 +17,14 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    url = "https://github.com/byuistats/"
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/groups/42868"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Thoughts about data and visualization"
+
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.10.0"
