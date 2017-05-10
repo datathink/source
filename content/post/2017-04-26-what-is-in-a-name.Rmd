@@ -21,4 +21,5 @@ Ever since I finished my graduate degree in statistics, I have tried to come up 
 * **Data Artist**
 * **Data Whisperer** - [I help [Data] with people problems](http://www.imdb.com/title/tt0119314/quotes){target="blank"}
 * **Data Wrangler**
+* **Data Journaler**
 
