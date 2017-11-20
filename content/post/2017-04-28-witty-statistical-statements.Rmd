@@ -1,19 +1,9 @@
 ---
-title: Witty Statistical Statements
-author: J. Hathaway
+title: "Witty Statistical Statements"
+author: "J. Hathaway"
 date: '2017-04-28'
-slug: witty-statistical-statements
-categories:
-  - statistics
-tags:
-  - quotes
-  - teaching
-  - data
-description: ''
-featured: ''
-featuredalt: ''
-featuredpath: ''
-linktitle: ''
+categories: ["Data Science", "Statistics"]
+tags: ["Data Science", "Teaching"]
 ---
 
 [Causeweb.org](https://www.causeweb.org/cause/resources/fun/){target="blank"} has a great collection of statistical statements, funny songs, and jokes. My favorite was from Paul Rudnick in a play on Hal Varian's quote

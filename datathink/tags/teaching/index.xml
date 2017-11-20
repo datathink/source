@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Data Think</title>
+    <link>/tags/teaching/</link>
+    <description>Recent content in Teaching on Data Think</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Witty Statistical Statements</title>
+      <link>/2017/04/28/witty-statistical-statements/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/04/28/witty-statistical-statements/</guid>
+      <description>Causeweb.org has a great collection of statistical statements, funny songs, and jokes. My favorite was from Paul Rudnick in a play on Hal Varian’s quote
+…statisticians are the new sexy vampires, only even more pasty.
+I spent part of today going through them to see what I could use for classes in the future. I wish there was a way to sort them by most downloaded or votes as there are quite a few items in the collection.</description>
+    </item>
+    
+  </channel>
+</rss>

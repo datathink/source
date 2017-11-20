@@ -20,7 +20,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     url = "https://github.com/byuistats/"
 [[menu.main]]
     name = "LinkedIn"
-    url = "https://www.linkedin.com/groups/42868"
+    url = "https://www.linkedin.com/groups/13537407"
 
 [params]
     description = "Thoughts about data and visualization"

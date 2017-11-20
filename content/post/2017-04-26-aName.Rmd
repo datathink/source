@@ -1,0 +1,21 @@
+---
+title: "What is in a name?"
+author: "J. Hathaway"
+date: 2017-04-26
+categories: ["Data Science"]
+tags: ["Data Science"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+I remember as a kid hearing the word **engineer** being tacked on the end of every job. I remember a few kids joking about the [garbageman](https://en.wikipedia.org/wiki/Waste_collector) being called a **sanitation engineer**. Coming from a [National Lab](http://www.pnnl.gov) I felt the pressure to call myself a scientist and sometimes wondered why I didn't get to wear [cool glasses](https://www.flickr.com/photos/pnnl/4295283153/). However, calling myself a statistical scientist felt a little weird. Towards the end of my employment at PNNL the phrase **data scientist** started to take off. I liked the title as I felt it communicated a little better to others my work (although I saw it used rather loosely by quite a few people).
+
+Ever since I finished my graduate degree in statistics, I have tried to come up with different names to describe what I do. I am sure others have done this as well as very few people have experience with statisticians and their profession. I thought it might be fun to list some of them. I may even post about some of the names as I think the names highlight the different skills a data scientists needs.
+
+* **Data Poet**
+* **Data Artist**
+* **Data Whisperer** - [I help [Data] with people problems](http://www.imdb.com/title/tt0119314/quotes)
+* **Data Wrangler**
+* **Data Therapist** vs **Data Interigator**
